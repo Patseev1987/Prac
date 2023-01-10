@@ -1,0 +1,15 @@
+/Users/bogdanpatseev/Documents/Practic/044/bin/Debug/net7.0/044
+/Users/bogdanpatseev/Documents/Practic/044/bin/Debug/net7.0/044.deps.json
+/Users/bogdanpatseev/Documents/Practic/044/bin/Debug/net7.0/044.runtimeconfig.json
+/Users/bogdanpatseev/Documents/Practic/044/bin/Debug/net7.0/044.dll
+/Users/bogdanpatseev/Documents/Practic/044/bin/Debug/net7.0/044.pdb
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.csproj.AssemblyReference.cache
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.AssemblyInfoInputs.cache
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.AssemblyInfo.cs
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.csproj.CoreCompileInputs.cache
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.dll
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/refint/044.dll
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.pdb
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/044.genruntimeconfig.cache
+/Users/bogdanpatseev/Documents/Practic/044/obj/Debug/net7.0/ref/044.dll
